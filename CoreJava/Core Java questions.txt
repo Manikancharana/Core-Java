@@ -1,0 +1,5 @@
+1.Create a Java application where we have one class which contains one non static method like add having 2 int parameters it has to return the addition of parameters, 1 non static method like sub having 2 int parameters it has to return subtraction of parameters, we also another non static method like multi having no parameter it has to return multiplication of both add and sub methods results, invoke the properties according to the requirement.
+
+2.Create a Java application where we have one class which contains 2 static methods and 2 non static methods having parameter and return type invoke the properties by providing dynamic inputs and implement method to method calling. Note Implement the methods alternatively like static method -> non static method -> static method -> non static method.
+
+3. Create a java application where we have one class which contains a non static method m1 having string as parameter and returns integer value we also has another non static method m2 havif integer parameter and returns Boolean values invoke these two methods in main method in a single line by providing dynamic inputs.
