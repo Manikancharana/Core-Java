@@ -5,3 +5,5 @@
 3. Create a java application where we have one class which contains a non static method m1 having string as parameter and returns integer value we also has another non static method m2 havif integer parameter and returns Boolean values invoke these two methods in main method in a single line by providing dynamic inputs.
 
 4. A static method m1 having bite as parameter and returns float value and a non static method m2 having integer as parameter and returns short value invoke these two methods under main method in a single statement by providing dynamic inputs.
+
+5. Create a java application where we have a class a static method m1 having short as parameter and returns Boolean value a non static method m2 having float as parameter and returns long value and a static method m3 having Boolean as parameter and returns float value and a non static method m4 having long as parameter and returns character value invoke all these properties under main method in a single statements by providing dynamic inputs.

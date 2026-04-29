@@ -32,5 +32,5 @@ public class Method3 {
         System.out.println("Enter char value : ");
         return sc.next().charAt(0);
     }
-    sc.close();
+   
 }
