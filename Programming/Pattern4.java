@@ -8,12 +8,22 @@ public class Pattern4 {
         System.err.println("Enter range ");
         int a=sc.nextInt();
         int b=sc.nextInt();
+        boolean first=true;
         for(int i=a;i<=b;i++){
-            System.out.print(i+"*"+(i+1) +", ");
+            if(!first){
+                System.out.print(",");
+            }
+            System.out.print(i+"*"+(i+1));
+            first=false;
         }
         System.out.println(" ");
+        first=true;
         for(int i=a;i<=b;i++){
-            System.out.print(i*(i+1) + ", ");
+            if(!first){
+                System.out.print(",");
+            }
+            System.out.print(i*(i+1));
+            first=false;
         }
 
     }

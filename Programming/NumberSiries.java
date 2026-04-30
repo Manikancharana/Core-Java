@@ -6,6 +6,7 @@ public class NumberSiries {
         System.out.print("Enter a number ");
         int a=sc.nextInt();
         int count=0;
+        boolean first=true;
          if(a<0){
             for(int i=a;i<0;i++){
                 count++;
@@ -15,14 +16,19 @@ public class NumberSiries {
             a=count;
          }
         for(int i=1;i<=a;i++){
-            if(i%5==0){
-                System.out.print("divisible by five, ");
+            if(!first)
+            {
+                System.out.print(",");
             }
-            else{
+            if(i%5==0){
+                System.out.print("divisible by five");
+                first = false;
+            }
+            else if(i%2!=0){
                 System.out.print(i+", ");
+                first=false;
         }
     }
-    System.out.print(count);
     sc.close();
     }
 

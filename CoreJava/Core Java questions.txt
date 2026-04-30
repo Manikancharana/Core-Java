@@ -7,3 +7,15 @@
 4. A static method m1 having bite as parameter and returns float value and a non static method m2 having integer as parameter and returns short value invoke these two methods under main method in a single statement by providing dynamic inputs.
 
 5. Create a java application where we have a class a static method m1 having short as parameter and returns Boolean value a non static method m2 having float as parameter and returns long value and a static method m3 having Boolean as parameter and returns float value and a non static method m4 having long as parameter and returns character value invoke all these properties under main method in a single statements by providing dynamic inputs.
+
+6. Create a java application where we have one class which contains a default constructor display any user friendly msg in this constructor and invoke this under main method.
+
+7. Create  a java application where we have one class which contains two global variables one non static method m1 having parameter and return type and a default constructor invoke all the properties in main method by providing dynamic inputs.
+
+8. Create a java application where we have one class which contains an instance variable and a parameterised constructor invoke parametarized constructor in the main method and display the value of variable by providing dynamic inputs.
+
+9. Create a java application where we have one class which contains three non static variables without initialization then intilize these varables while creating object and display the values of variables under main method.
+
+10. Create a java application where we have one class which contains one DefaultC and one PC And one Doble PC and one trple PC and a non static variable invoke all the methods under main method by providing dynamanic inputs.
+
+11.Create a java application where we have one class which contains one DefaultC and one PC And one Doble PC  one trple PC and a non static variable invoke default constructor under single PC invoke single pc under Double PC , invoke double PC under triple PC invoke triple pc under main method.

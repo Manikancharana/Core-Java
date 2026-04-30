@@ -7,11 +7,11 @@ public class Pattern3 {
     float start = sc.nextFloat();
     float end = sc.nextFloat();
     boolean first = true;
-    for(float i=start;i<end;i+=0.2){
+    for(float i=start;i<end;i+=0.2f){
         if(!first){
             System.out.print(", ");
          }
-         System.out.print(i+".^2");
+         System.out.print(i+"^2");
          first = false;
     }
     System.out.print(".");
