@@ -13,7 +13,7 @@ public class AlternateEvenNumber {   //Alternate even number in a given range
         start++;
     }
 
-   for(int i=start;i<=end; i+=   4){
+   for(int i=start;i<=end; i+=4){
     System.out.print(i + " ");
    }
     sc.close();
