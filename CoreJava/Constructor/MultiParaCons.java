@@ -4,7 +4,7 @@ import java.util.Scanner;
    
 public class MultiParaCons {
     static Scanner sc = new Scanner(System.in);
-    int a = sc.nextInt();
+    int a = sc.nextInt();        
 
     MultiParaCons(){
         System.out.println("Default constructor...");
@@ -21,7 +21,7 @@ public class MultiParaCons {
     }
 
     public static void main(String[] args) {
-        MultiParaCons x = new MultiParaCons();
+        MultiParaCons x = new MultiParaCons();  //when ever object created every time memory allocated to non static variables 
         System.out.println(x.a);
         new MultiParaCons(sc.nextInt());
         new MultiParaCons(sc.nextInt(),sc.next());
