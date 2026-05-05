@@ -58,7 +58,7 @@ public static void main(String[] args){
             c++;
             // sum+=i;  // To cal Sum of prime numbers
             if(c%2==1){
-                // System.out.print(i +" ");  // To print alternate numbers 
+                System.out.print(i +" ");  // To print alternate numbers 
                    sum1+=i;  //TO print Alternate prime numbers
                 alt++;
             }
@@ -68,7 +68,7 @@ public static void main(String[] args){
     // System.out.print("Prime Count is "+c);
     // System.out.printf("%.3f",(float)sum/c);  // Average of prime numbers
     // System.out.print("Alternate prime Sum is " + sum1); // To print Alternate prime numbers
-    System.out.printf("%.3f",(float)sum1/alt);
+    // System.out.printf("%.3f",(float)sum1/alt);
 
 }
 }

@@ -16,7 +16,7 @@ public class ObjParaCons2 {
         
         ObjParaCons2 x= new ObjParaCons2(sc.nextInt(),sc.nextFloat());
         ObjParaCons2 x1 = new ObjParaCons2(x);
-         System.out.println(x.a + "  "+ x.b);  
-        System.out.println(x1.a + " " + x1.b);
+        System.out.println(x.a + "  "+ x.b);  
+        System.out.println(x1.a + " " + x1.b); //Printing Default values
     }
 }
