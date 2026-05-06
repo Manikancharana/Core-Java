@@ -5,7 +5,7 @@ public class AllinOne{
     static Scanner sc= new Scanner(System.in);
     int n =sc.nextInt();
     void sum (int a,int b){
-        System.out.println("Sum is : "+a+b);
+        System.out.println("Sum is : "+(a+b));
         this.sum(sc.next()); // this at method level
     }
     int sum(String b){
