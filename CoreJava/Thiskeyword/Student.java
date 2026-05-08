@@ -15,6 +15,6 @@ public class Student {
     }
     public static void main(String[] args){
         Student x= new Student();
-        System.out.print(x.corejava(sc.nextFloat()));v 
+        System.out.print(x.corejava(sc.nextFloat()));
     }
 }
