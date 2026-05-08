@@ -86,6 +86,8 @@ Note : if m1 method returns true invoke m2 method else invoke m3 method
 
 9. Create a java application where we have one class which contains three non static variables without initialization then intilize these varables while creating object and display the values of variables under main method.
 
+Constructors....
+
 10. Create a java application where we have one class which contains one Default C and one PC And one Doble PC and one trple PC and a non static variable invoke all the methods under main method by providing dynamanic inputs.
 
 11.Create a java application where we have one class which contains one Default C and one PC And one Doble PC  one trple PC and a non static variable invoke default constructor under single PC invoke single pc under Double PC , invoke double PC under triple PC invoke triple pc under main method.
@@ -101,8 +103,14 @@ note: invoke all the methods and constructors in a single statement.
 
 16. Create a java application where we have one class like Mobile which contains details like mobile name , mobile brand , mobile version , storage copy these values into an object and display originals values and copied values under main method intilise the values while creating the object.
 
+this keyword....
+
 17. Create a java application where we need to satisfy this at variable level.
 
 18. Create a java application where we need to satisfy this at method level.
 
 17. Create a java application where we need to satisfy this at Constructor level.
+
+18. Create a java application where we need to satisfy this at all levels.
+
+19. Create a java application where we have one class student which contains instance variable attendance and a non static method core java having attendance as parameter hear, if core java attendance is greaterthan global attendance return good boy keep it up or else return better luck next time then invoke under main method.
