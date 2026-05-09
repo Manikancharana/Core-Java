@@ -17,12 +17,12 @@ public class NearestPrime {
         }
     }
     static int prevPrime(int n){
-        for(int i=n-1;i>2;i--){
+        for(int i=n-1;i>=2;i--){
             if(isPrime(i)){
                 return i;
             }
         }
-        return 2;
+        return 1;
     }
     static int afterPrime(int n){
         for(int i=n+1;true;i++){
