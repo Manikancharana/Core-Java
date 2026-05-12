@@ -18,29 +18,38 @@ class Bank {
     }
 }
 public class User extends Bank{
-    int amount;
+   static   Scanner sc= new Scanner(System.in);
+    static int amount;
     static User x = new User();
-    void Display(int c, int amount){
+    void display(int c){
        
-       if(c==1) x.deposit(amount);
-       if(c==2) x.withdraw(amount);
+       if(c==1){
+        System.out.print("Enter amount ");
+        amount=sc.nextInt();
+        x.deposit(amount);
+       }
+       if(c==2){
+        System.out.print("Enter amount ");
+        amount=sc.nextInt();
+         x.withdraw(amount);
+       }
        if(c==3) x.balence_Enquiry();
     }
-    public static void main(String[] args){
-        Scanner sc= new Scanner(System.in);
-        
-        while (true) {
-            System.out.println("Choose Options \n 1. Deposite amount \n 2. Withdraw amount \n 3.Balance Enquiry");
+    void view(){
+        System.out.println("Choose Options \n 1. Deposite amount \n 2. Withdraw amount \n 3.Balance Enquiry");
             int n=sc.nextInt();
-
-            x.Display(n,sc.nextInt());
-            System.out.println("Do you want to another transaction (0/1) ");
+            display(n);
+    }
+    public static void main(String[] args){
+        int n=1;
+        while (n==1) {
+            x.view();
+            System.out.println("Do you want to another transaction (1/0) ");
             int a=sc.nextInt();
             if(a==1){
-                int b=sc.nextInt();
-                x.Display(b,sc.nextInt());
+                n=1;
             }else{
-                return;
+                n=0;
             }
 
         }
