@@ -5,8 +5,11 @@ import java.util.Scanner;
 class Bank {
     double balence=10000;
     void withdraw(int amount){
+        if(balence>amount){
         balence=balence-amount;
         System.out.println("Amount withdraw Successfully...");
+        }
+        else System.out.println("Insufficient balence");
         
     }
     void deposit(int amount){
@@ -52,9 +55,7 @@ public class User extends Bank{
             }else{
                 n=0;
             }
-
-        }
-          
+        }  
         }
     }
    
