@@ -33,6 +33,7 @@ public class User extends Bank{
         amount=sc.nextInt();
          x.withdraw(amount);
        }
+       
        if(c==3) x.balence_Enquiry();
     }
     void view(){
