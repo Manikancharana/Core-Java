@@ -1,3 +1,5 @@
+//Factorial sum equals original number
+
 package Programming.Methods;
 import java.util.Scanner;
 // public class StrongNumb {

@@ -1,3 +1,6 @@
+// If sum of factors (excluding itself) equals the number.
+// 6 → 1 + 2 + 3 = 6
+
 package Programming.Methods;
 
 import java.util.Scanner;

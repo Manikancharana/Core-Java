@@ -1,4 +1,4 @@
-package CoreJava.Oops.Inheritence;
+package CoreJava.Oops;
 
 public class SingleInheritence {
     int a=100;

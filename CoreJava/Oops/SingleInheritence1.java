@@ -1,4 +1,4 @@
-package CoreJava.Oops.Inheritence;
+package CoreJava.Oops;
 
 import java.util.Scanner;
 

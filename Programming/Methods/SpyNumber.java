@@ -1,4 +1,7 @@
-// package Programming.Methods;
+// Sum of digits equals product of digits.
+// Example : 123 sum=6,product =6
+
+package Programming.Methods;
 import java.util.Scanner;
 
 public class SpyNumber {
