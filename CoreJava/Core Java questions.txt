@@ -114,3 +114,24 @@ this keyword....
 18. Create a java application where we need to satisfy this at all levels.
 
 19. Create a java application where we have one class student which contains instance variable attendance and a non static method core java having attendance as parameter hear, if core java attendance is greaterthan global attendance return good boy keep it up or else return better luck next time then invoke under main method.
+
+20. Create a java application where we have one class which contains 1 DC and 1 Single PC and 1 Double PC and Triple PC then invoke all the constructors in a single statement by providing dynamic inputs.
+
+//Oops
+//Inheritence
+
+21. Create a java application where we have one class which contains a non static variable static method and non static method and a default constructor inherit this class into another class which contains a static variable and a non static method invoke all these properties from the main method by providing dynamic inputs.
+
+22.Create a java application where we have one class which contains a non static variable and a static , non staic methods having parameters and return return type then inherite this class into another class which contains a non static variable and a non static method having parameter and return type then invoke all the properties under main method by providing dynamic inputs.
+
+23.Create a java application where we have one class BANK which contains instance variable balance and two non static methods like withdraw and deposit and another non static method balanceEnquiry which displays the current balance then inherit this class into another class USER where we have non static method banking here dispplay the available options for the user and then based on user choice do respective transaction then after completion of one transaction ask user if he want to do another transaction or exit the application based on user requirement, do the respective process then invoke this method under main method by providing dynamic inputs.
+
+24. Create a java application where we have one class which contains a non static variable and a non static method haviving parameter and return then inherit this class into another class   which contains static or non static method having parameter and return type then inherit this class into another class which contains a non static method having pararmeter and return type then invoke all the properties under main method by providing dynamic inputs.
+
+25.//Multi-level inheritance 1.Create a java application where we have one Mobile Manufacturing Company, they will design a respective branded mobile with specifications like RAM, ROM, OS Name, OS Version, Camera, Processor, Battery, Display Type, and price then, this mobile will be released into the wholesale market then the price has to increase, from here it will be released into the retail market again price has to increase then from here this mobile will be purchased by the customer, customer has to display all these values with updated price with respect to one user-defined method and then invoke display method under the main method.
+
+26.Create a java application where we have one class which contains a non static variable and a non static method and a static method inherit this class into 3 different class which contains a non static varible and a non static method invoke all the properties under main method of last class by providind dynamic inputs.
+
+27.Create a java application where we have a class and call super at variable level;
+
+28. Statisfy super keyword at method level.
