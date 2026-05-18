@@ -1,3 +1,4 @@
+package CoreJava.Oops;
 import java.util.Scanner;
 class Fibonacci{
 static void fib(int n){
