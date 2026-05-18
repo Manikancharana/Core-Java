@@ -7,7 +7,7 @@ int v1=sc.nextInt();
 
 int m1(String s){
 System.out.println("Hello, "+s);
-return sc.nexInt();
+return sc.nextInt();
 }
 }
 class B extends A{
@@ -21,6 +21,7 @@ float m3(char c){
 System.out.println("Class C "+c);
 return sc.nextFloat();
 }
+}
 class Hybrid extends C{
  Short m4(String s){
 System.out.println("Hybride Inheritence");
@@ -33,7 +34,7 @@ B x2 = new B();
 A x3 = new A();
 
 System.out.println(x.m4(sc.next()));
-System.out.println(x1.m3(sc.next().charAt(0));
+System.out.println(x1.m3(sc.next().charAt(0)));
 System.out.println(x2.m2(sc.nextInt()));
 System.out.println(x3.m1(sc.next()));
 

@@ -1,3 +1,4 @@
+package CoreJava.Oops;
 // Statisfy super keyword at method level.
 import java.util.Scanner;
 class A{

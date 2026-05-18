@@ -1,3 +1,4 @@
+package CoreJava.Oops;
 import java.util.Scanner;
 class A{
 static Scanner sc = new Scanner(System.in);
