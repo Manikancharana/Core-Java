@@ -1,12 +1,14 @@
-//
+// sum of individual digit is equals to 1 then it's a lucky number.
+
 package Programming.Methods;
 
 import java.util.Scanner;
 
+/*
 public class LuckyNumb {
     static void lucky(int n){
         int d=digitcount(n);
-        while(true){
+        while(d>9){
         if(d%10==d){
             if(d==1){
                 System.out.println("lucky number");
@@ -24,7 +26,7 @@ public class LuckyNumb {
 
     }
     static int digitcount(int n){
-        int x=0,sum=0;
+        int sum=0;
         while (n>0) {
             int r=n%10;
             n/=10;
@@ -38,3 +40,16 @@ public class LuckyNumb {
         lucky(n);
     }
 }
+
+*/
+
+class LuckyNumb{
+public static boolean main(String[] args){
+Scanner sc = new Scanner(System.in);
+int n=sc.nextInt();
+return n%9==1;
+}
+}
+
+
+
