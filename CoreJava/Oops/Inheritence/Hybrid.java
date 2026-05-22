@@ -32,11 +32,9 @@ Hybrid x= new Hybrid();
 C x1= new C();
 B x2 = new B();
 A x3 = new A();
-
 System.out.println(x.m4(sc.next()));
 System.out.println(x1.m3(sc.next().charAt(0)));
 System.out.println(x2.m2(sc.nextInt()));
 System.out.println(x3.m1(sc.next()));
-
 }
 }

@@ -1,3 +1,4 @@
+package Programming.Methods;
 import java.util.Scanner;
 class CircularPrime{
 static int digitcount(int n){

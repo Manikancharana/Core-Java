@@ -135,3 +135,11 @@ this keyword....
 27.Create a java application where we have a class and call super at variable level;
 
 28. Statisfy super keyword at method level.
+
+29.Create a java application where we have class statisfy all relationships.
+
+//Encapsulation
+
+30.Create a java application Where we have one class Insta which contains one private filed like password then provide setter and getter methods for this variable and one separate class user from hear, Update the  password and display the updated password to the user.
+
+31. Create a java application Where we have one class Insta which contains two private fileds like usename and password then provide setter and getter methods for this variable and one separate class user from hear, Update the  password and display the updated password to the user.
