@@ -1,4 +1,4 @@
-package CoreJava.Oops;
+package CoreJava.Oops.Inheritence;
 import java.util.Scanner;
 class Fibonacci{
 static void fib(int n){

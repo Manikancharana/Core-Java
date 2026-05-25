@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Method1 {
    static Scanner sc = new Scanner(System.in);
    static Method1 x = new Method1();
-    int a=sc.nextInt();
+    int a=sc.nextInt();  
     int b = sc.nextInt(); 
     int c = sc.nextInt();
     void met(float a, boolean t){
@@ -12,7 +12,7 @@ public class Method1 {
     }
 
     static boolean met2(String s){
-        System.out.print(x.a+" "+ x.b+" " +x.c+" ");
+        System.out.print(x.a+" "+ x.b+" " +x.c+" "); //These vars access in static method so use obj for reference
  System.out.print(s);
        return true;
     }

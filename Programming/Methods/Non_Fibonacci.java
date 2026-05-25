@@ -1,3 +1,4 @@
+package Programming.Methods;
 import java.util.Scanner;
 class Non_Fibonacci{
 public static void main(String[] args){

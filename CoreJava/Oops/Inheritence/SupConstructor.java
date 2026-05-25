@@ -1,5 +1,5 @@
 // Statisfy super keyword at Constructor level.
-package CoreJava.Oops;
+package CoreJava.Oops.Inheritence;
 class A{
 A(){
 System.out.println("hello Im in base class...");

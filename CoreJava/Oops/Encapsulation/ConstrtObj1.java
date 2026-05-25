@@ -1,3 +1,4 @@
+package CoreJava.Oops;
 import java.util.Scanner;
 class Insta{
    private String UserName;

@@ -1,4 +1,4 @@
-package CoreJava.Oops;
+package CoreJava.Oops.Inheritence;
 import java.util.Scanner;
 class A{
 static Scanner sc = new Scanner(System.in);

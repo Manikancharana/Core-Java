@@ -1,5 +1,5 @@
 //Create a java application where we have a class and call super at variable level;
-package CoreJava.Oops;
+package CoreJava.Oops.Inheritence;
 import java.util.Scanner;
 class A{
 static Scanner sc = new Scanner(System.in);

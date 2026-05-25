@@ -1,4 +1,4 @@
-package CoreJava.Oops;
+package CoreJava.Oops.Inheritence;
 // Statisfy super keyword at method level.
 import java.util.Scanner;
 class A{

@@ -1,3 +1,4 @@
+package CoreJava.Oops.Encapsulation;
 import java.util.Scanner;
 class Bank{
    private String UserName;

@@ -1,4 +1,4 @@
-package CoreJava.Oops;
+package CoreJava.Oops.Inheritence;
 import java.util.*;
 public class Multilevel1 {
     static Scanner sc=  new Scanner(System.in);
