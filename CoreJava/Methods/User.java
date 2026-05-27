@@ -1,4 +1,3 @@
-package CoreJava.Methods;
 import java.util.Scanner;
 class User{
 	String Username;
@@ -23,6 +22,10 @@ class User{
 		System.out.println("Updated Username and password ");
 		System.out.print(x.Username+ "   ");
 		System.out.println(x.Password);
+                System.out.println(args[0]);    //Pass data on run time.
+                System.out.println(args[1]);
+                System.out.println(args[2]);
+                System.out.println(args[3]);
 	  sc.close();
      }
 }
