@@ -143,3 +143,37 @@ this keyword....
 30.Create a java application Where we have one class Insta which contains one private filed like password then provide setter and getter methods for this variable and one separate class user from hear, Update the  password and display the updated password to the user.
 
 31. Create a java application Where we have one class Insta which contains two private fileds like usename and password then provide setter and getter methods for this variable and one separate class user from hear, Update the  password and display the updated password to the user.
+
+32.Create a java application where we have one class bank which contains user name and pin without Initilization then provide setter/ getter methods for these variables also perform constructor injection and we have a class user from hear update the user name and pin and then display the updated values.
+
+33. Create a java application Insta Class which contsins private feilds like user name password then provide setter and getter methods for those variables and then we have another class user hear if user wants to update user name then update username and show the updated user name and then if user wants to update password then update password and show the updated password or else if user wants to update both username and password then update both values and then display updated values hear initialize the values by using constructor injection.
+
+
+POLYMORPHISM:
+
+1.Create a java application where we need to satisfy method overloading.
+
+2.Create a java application where we need to satisfy method overriding.
+
+3.Create a java application where we need to satisfy both method overloading and overriding.   
+
+4.Create a java application where we have a class which contains main method and class B which extends class A having main method.then invoke class A main method under class B main method.
+
+ABSTRACTION:
+
+1.Create a java application where we have one abstract class it contains two undefined methods, then provide functionality for this methods using concrete class and invoke them by providing dynamic inputs.
+
+2.Create a java application where we have an abstract class which contains 2 undefined methods and one static and one non-static method and a parameterized constructor then provide fuctionality for abstract methods using concrete class and invoke them by providing dynamic inputs.
+
+3. Create a java application where we have one abstract class which contains one defined and one undefined methods then inherite this class into another abstract class which contains one defined method and one undefined method and one parameterised constructor then invoke this class into conctrate class provide functionality for abstract methods and invoke them by providing Dynamic inputs.
+
+4. Create a java application where we hava one concrant class which contains a non static method and one parameterised constrctor then inherit this class into an abstract class which contains one defined and one undefined method then inherit this class into concreate class and provide functionality for abstract methods and invoke all the  ethods under the main method of separate class test.
+
+
+
+
+
+
+
+
+

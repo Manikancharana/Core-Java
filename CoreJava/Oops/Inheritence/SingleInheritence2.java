@@ -9,7 +9,7 @@ public class SingleInheritence2 {
     System.out.println(a);
     return sc.next();
    }
-   float m2(short a){
+   float m2(int a){
     System.out.println(a);
      return sc.nextFloat();
    }
@@ -18,6 +18,7 @@ class A extends SingleInheritence2{
     String a=sc.next(); 
 double m3(boolean a){
     System.out.println(a);
+    super.m2(3);
     return sc.nextDouble();
 }
 public static void main(String[] args){

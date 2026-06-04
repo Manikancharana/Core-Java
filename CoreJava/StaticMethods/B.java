@@ -11,7 +11,6 @@ public class B {
         int sum = a+b;
         return sum;
     }
-
     int sub(int a, int b){
         System.out.println(add(a,b));
         int sub1 = a-b;

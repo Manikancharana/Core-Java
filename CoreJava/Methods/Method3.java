@@ -15,8 +15,7 @@ public class Method3 {
    }
    public static void main(String[] args) {
     
-   m1().m2()
-   ;
+   m1().m2();
    }
 
 }

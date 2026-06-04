@@ -5,7 +5,7 @@ static Scanner sc = new Scanner(System.in);
 int n=sc.nextInt();
 String m1(int n){
 System.out.println("Local variable "+n);
-System.out.println("Local variable "+this.n);
+System.out.println("Global variable "+this.n);
 return sc.next();
 }
 A(){

@@ -15,7 +15,6 @@ public class ConstructorLevel {
         System.out.println("Non static value "+n);
     }
     public static void main(String[] args){
-      ConstructorLevel c1 = new ConstructorLevel(sc.nextInt(),sc.nextInt());
-
+       new ConstructorLevel(sc.nextInt(),sc.nextInt());
     }
 }

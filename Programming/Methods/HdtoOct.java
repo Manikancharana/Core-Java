@@ -31,6 +31,6 @@ class HdtoOct{
 	public static void main(String[] args){
 		Scanner sc = new Scanner(System.in);
 		String hd=sc.next();
-		System.out.println(hdtoOct(hd));
+		System.out.println(hdtoOct(hd));       
 	}
 }

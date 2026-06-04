@@ -1,0 +1,21 @@
+Programming
+
+Even/Odd , Alternate , Sum , Avg , Range
+Prime numbers , Alternate prime , Range of primes , sum, Avg...
+Factors
+Factorial , Range , Alternate , avg , sum .....
+Fibonacci series , sum , alternate, avg , upto n Fibonacci , Range of Fibonacci
+palindrome , range , sum, ....
+nearest prime
+Simple basic patterns
+
+
+Core Java
+
+Types of variables , Types of methods , method signature , return types
+static keyword , static scope , static variables , static methods
+this key word , this at levels (3 levels)
+classes & Object
+methods (single line calling ),
+Oops
+Constructors , multiple constructors ....
