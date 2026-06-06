@@ -1,7 +1,7 @@
 Static and Non static methods
 1.Create a java application where we have one class which contains a local variable and display the value of this variable under main method
 
-2.create a java application where we have one class which contains a static gobal variable and a non static gobal variable display the value of these variable under the main method 
+2.create a java application where we have one class which contains a static global variable and a non static global variable display the value of these variable under the main method 
 
 3.create a java application where we have one class which contains a static method m1 having no parameters and returns nothing display any user friendly message inside this methods and invoke this method from the main method 
 
@@ -9,19 +9,19 @@ Static and Non static methods
 
 5.create a java application where we have one class which contains a  static method m1 having no parameters and returns nothing and a non static method m2 having no parameters and returns nothing display any user friendly message inside this methods and invoke them under main method 
 
-6.create a java application where we have one class which contains a  satitc method m1 having integer parameters and returns string value a non static method having float value of 
+6.create a java application where we have one class which contains a  static method m1 having integer parameters and returns string value a non static method having float value of 
 parameter and returns nothing invoke this proprieties under the main method
 
-7.create a java application where we have one class which contains static method m1 having two parameters and returns character value and nonstatic method m2 having double value parameter and returns byte value invoke this two methods under main method .
+7.create a java application where we have one class which contains static method m1 having two parameters and returns character value and non static method m2 having double value parameter and returns byte value invoke this two methods under main method .
 
-8.create a java application where we have one class which contains one static and one nonstatic golbal varaiable and one static and one non static method having no parameters and no return type display value of this value under this two methods and invoke this method form  the main method
+8.create a java application where we have one class which contains one static and one non static global variable and one static and one non static method having no parameters and no return type display value of this value under this two methods and invoke this method form  the main method
 
-9.create a java application where we have one class which contains two gobal one static and one static variables without insalazation one static and one non static and having no return type inlize the two varablies under this two methods and invoke the two methods 
+9.create a java application where we have one class which contains two global one static and one static variables without initialization one static and one non static and having no return type inline the two variables under this two methods and invoke the two methods 
 Dynamic inputs 
 
 10.create a java application where we have one class which contains a static method m1 having inter as a parameter and returns nothing and non a  static method m2 having Boolean has a parameter and returns nothing invoke this two methods under the main method by providing  dynamic inputs  
 
-11.create a java application where we have one class which contains a two static variables and two non static variables and two local variables inslisation this variables by providing dynamic inputs  and invoke them under main method 
+11.create a java application where we have one class which contains a two static variables and two non static variables and two local variables initialization this variables by providing dynamic inputs  and invoke them under main method 
 
 12.create a java application where we have one class which contains one non static m1 having byte has parameter and a static method m2 having no parameter and returns short value then invoke both the methos under the main method by providing dynamic inputs 
 
@@ -31,7 +31,7 @@ Dynamic inputs
 
 15. create a java application where we have one class which contains non static method m1 having string has a parameter and returns integer value and a static method m2 float has parameter and returns long value and invoke m1 and m2 and m2 under main method by providing dynamic inputs.
 
-16. create a java application where we have one class which contains one static method m1 having no parameters returns nothing a static method m2 having boolean parameters and returns nothing a static method m3 having no parameter returns byte value a static method m4 having short has a parameter and returns string value then invoke m1 under m2 and m2 under m3 and m3 under m4 and m4 under main method by providing dynamic inputs.
+16. create a java application where we have one class which contains one static method m1 having no parameters returns nothing a static method m2 having Boolean parameters and returns nothing a static method m3 having no parameter returns byte value a static method m4 having short has a parameter and returns string value then invoke m1 under m2 and m2 under m3 and m3 under m4 and m4 under main method by providing dynamic inputs.
 
 17. create a java application where we have one class which contains non static method m1() having parameter and return type and a static method m2 () having parameter and return type and a static method m3 () having parameter and return type then invoke m1 under m2 and m2 under m3 and m3 under main method by providing main method 
 
@@ -52,7 +52,7 @@ Note : you need to  display the employee details by using display method have cl
 23. create a java application where we have one which contains one static method and two non static methods having parameter and return type then invoke all methods under main method by providing dynamic inputs.
 Note : Don’t create object under main method and global area.
 
-24. create a java application where we have one class which contains one static  method m1 having no parameters and returns boolean value, two non static methods like m2 and m3 having parameter and return type then invoke all the methods under main method by providing dynamic inputs.
+24. create a java application where we have one class which contains one static  method m1 having no parameters and returns Boolean value, two non static methods like m2 and m3 having parameter and return type then invoke all the methods under main method by providing dynamic inputs.
 Note : if m1 method returns true invoke m2 method else invoke m3 method
 
 25. create a java application where we have one class which contains a non static method m1 having string has parameter and returns integer value and we also have another non static  method m2 having integers parameter and returns Boolean value invoke this two methods under main method in a single statement by providing dynamic inputs
@@ -72,7 +72,7 @@ Note : if m1 method returns true invoke m2 method else invoke m3 method
 
 2.Create a Java application where we have one class which contains 2 static methods and 2 non static methods having parameter and return type invoke the properties by providing dynamic inputs and implement method to method calling. Note Implement the methods alternatively like static method -> non static method -> static method -> non static method.
 
-3. Create a java application where we have one class which contains a non static method m1 having string as parameter and returns integer value we also has another non static method m2 havif integer parameter and returns Boolean values invoke these two methods in main method in a single line by providing dynamic inputs.
+3. Create a java application where we have one class which contains a non static method m1 having string as parameter and returns integer value we also has another non static method m2 having integer parameter and returns Boolean values invoke these two methods in main method in a single line by providing dynamic inputs.
 
 4. A static method m1 having bite as parameter and returns float value and a non static method m2 having integer as parameter and returns short value invoke these two methods under main method in a single statement by providing dynamic inputs.
 
@@ -82,26 +82,26 @@ Note : if m1 method returns true invoke m2 method else invoke m3 method
 
 7. Create  a java application where we have one class which contains two global variables one non static method m1 having parameter and return type and a default constructor invoke all the properties in main method by providing dynamic inputs.
 
-8. Create a java application where we have one class which contains an instance variable and a parameterised constructor invoke parametarized constructor in the main method and display the value of variable by providing dynamic inputs.
+8. Create a java application where we have one class which contains an instance variable and a parameterised constructor invoke parameterized constructor in the main method and display the value of variable by providing dynamic inputs.
 
-9. Create a java application where we have one class which contains three non static variables without initialization then intilize these varables while creating object and display the values of variables under main method.
+9. Create a java application where we have one class which contains three non static variables without initialization then initialize these variables while creating object and display the values of variables under main method.
 
 Constructors....
 
-10. Create a java application where we have one class which contains one Default C and one PC And one Doble PC and one trple PC and a non static variable invoke all the methods under main method by providing dynamanic inputs.
+10. Create a java application where we have one class which contains one Default C and one PC And one Doble PC and one triple PC and a non static variable invoke all the methods under main method by providing dynamic inputs.
 
-11.Create a java application where we have one class which contains one Default C and one PC And one Doble PC  one trple PC and a non static variable invoke default constructor under single PC invoke single pc under Double PC , invoke double PC under triple PC invoke triple pc under main method.
+11.Create a java application where we have one class which contains one Default C and one PC And one Doble PC  one triple PC and a non static variable invoke default constructor under single PC invoke single pc under Double PC , invoke double PC under triple PC invoke triple pc under main method.
 
-12. Create a java application where we have one class which contains one DC and one Single PC one double PC and one static method m1 and two non static methods m2,m3 having parameter and return type then invoke m1 under default constructor , m2 under single PC and m3 under Doublr PC and invoke all the constructor under main method by providing dynamic inputs.
+12. Create a java application where we have one class which contains one DC and one Single PC one double PC and one static method m1 and two non static methods m2,m3 having parameter and return type then invoke m1 under default constructor , m2 under single PC and m3 under Double PC and invoke all the constructor under main method by providing dynamic inputs.
 
 13. Create a java application where we have one class which contains one DC two single PC's and 3 non static methods having parameter and return type invoke all properties under main method by providing dynamic inputs. 
 note: invoke all the methods and constructors in a single statement.
 
 14. Create a java application where we have one class which contains on instance var and one object parameterized constructor then invoke this under main method by providing dynamic inputs 
 
-15. Create a java application where we have one class which contains two instance variables without intilization then intialise those variables while creating object print these variables under object parameterized constructor then invoke under main method by providing dynamic inputs.
+15. Create a java application where we have one class which contains two instance variables without initialization then initialize those variables while creating object print these variables under object parameterized constructor then invoke under main method by providing dynamic inputs.
 
-16. Create a java application where we have one class like Mobile which contains details like mobile name , mobile brand , mobile version , storage copy these values into an object and display originals values and copied values under main method intilise the values while creating the object.
+16. Create a java application where we have one class like Mobile which contains details like mobile name , mobile brand , mobile version , storage copy these values into an object and display originals values and copied values under main method initialize the values while creating the object.
 
 this keyword....
 
@@ -113,40 +113,40 @@ this keyword....
 
 18. Create a java application where we need to satisfy this at all levels.
 
-19. Create a java application where we have one class student which contains instance variable attendance and a non static method core java having attendance as parameter hear, if core java attendance is greaterthan global attendance return good boy keep it up or else return better luck next time then invoke under main method.
+19. Create a java application where we have one class student which contains instance variable attendance and a non static method core java having attendance as parameter hear, if core java attendance is greater than global attendance return good boy keep it up or else return better luck next time then invoke under main method.
 
 20. Create a java application where we have one class which contains 1 DC and 1 Single PC and 1 Double PC and Triple PC then invoke all the constructors in a single statement by providing dynamic inputs.
 
 //Oops
-//Inheritence
+//Inheritance
 
 21. Create a java application where we have one class which contains a non static variable static method and non static method and a default constructor inherit this class into another class which contains a static variable and a non static method invoke all these properties from the main method by providing dynamic inputs.
 
-22.Create a java application where we have one class which contains a non static variable and a static , non staic methods having parameters and return return type then inherite this class into another class which contains a non static variable and a non static method having parameter and return type then invoke all the properties under main method by providing dynamic inputs.
+22.Create a java application where we have one class which contains a non static variable and a static , non static methods having parameters and return type then inherit this class into another class which contains a non static variable and a non static method having parameter and return type then invoke all the properties under main method by providing dynamic inputs.
 
-23.Create a java application where we have one class BANK which contains instance variable balance and two non static methods like withdraw and deposit and another non static method balanceEnquiry which displays the current balance then inherit this class into another class USER where we have non static method banking here dispplay the available options for the user and then based on user choice do respective transaction then after completion of one transaction ask user if he want to do another transaction or exit the application based on user requirement, do the respective process then invoke this method under main method by providing dynamic inputs.
+23.Create a java application where we have one class BANK which contains instance variable balance and two non static methods like withdraw and deposit and another non static method balance Enquiry which displays the current balance then inherit this class into another class USER where we have non static method banking here display the available options for the user and then based on user choice do respective transaction then after completion of one transaction ask user if he want to do another transaction or exit the application based on user requirement, do the respective process then invoke this method under main method by providing dynamic inputs.
 
-24. Create a java application where we have one class which contains a non static variable and a non static method haviving parameter and return then inherit this class into another class   which contains static or non static method having parameter and return type then inherit this class into another class which contains a non static method having pararmeter and return type then invoke all the properties under main method by providing dynamic inputs.
+24. Create a java application where we have one class which contains a non static variable and a non static method having parameter and return then inherit this class into another class   which contains static or non static method having parameter and return type then inherit this class into another class which contains a non static method having parameter and return type then invoke all the properties under main method by providing dynamic inputs.
 
 25.//Multi-level inheritance 1.Create a java application where we have one Mobile Manufacturing Company, they will design a respective branded mobile with specifications like RAM, ROM, OS Name, OS Version, Camera, Processor, Battery, Display Type, and price then, this mobile will be released into the wholesale market then the price has to increase, from here it will be released into the retail market again price has to increase then from here this mobile will be purchased by the customer, customer has to display all these values with updated price with respect to one user-defined method and then invoke display method under the main method.
 
-26.Create a java application where we have one class which contains a non static variable and a non static method and a static method inherit this class into 3 different class which contains a non static varible and a non static method invoke all the properties under main method of last class by providind dynamic inputs.
+26.Create a java application where we have one class which contains a non static variable and a non static method and a static method inherit this class into 3 different class which contains a non static variable and a non static method invoke all the properties under main method of last class by providing dynamic inputs.
 
 27.Create a java application where we have a class and call super at variable level;
 
-28. Statisfy super keyword at method level.
+28. Satisfy super keyword at method level.
 
-29.Create a java application where we have class statisfy all relationships.
+29.Create a java application where we have class satisfy all relationships.
 
 //Encapsulation
 
 30.Create a java application Where we have one class Insta which contains one private filed like password then provide setter and getter methods for this variable and one separate class user from hear, Update the  password and display the updated password to the user.
 
-31. Create a java application Where we have one class Insta which contains two private fileds like usename and password then provide setter and getter methods for this variable and one separate class user from hear, Update the  password and display the updated password to the user.
+31. Create a java application Where we have one class Insta which contains two private fields like username and password then provide setter and getter methods for this variable and one separate class user from hear, Update the  password and display the updated password to the user.
 
-32.Create a java application where we have one class bank which contains user name and pin without Initilization then provide setter/ getter methods for these variables also perform constructor injection and we have a class user from hear update the user name and pin and then display the updated values.
+32.Create a java application where we have one class bank which contains user name and pin without Initialization then provide setter/ getter methods for these variables also perform constructor injection and we have a class user from hear update the user name and pin and then display the updated values.
 
-33. Create a java application Insta Class which contsins private feilds like user name password then provide setter and getter methods for those variables and then we have another class user hear if user wants to update user name then update username and show the updated user name and then if user wants to update password then update password and show the updated password or else if user wants to update both username and password then update both values and then display updated values hear initialize the values by using constructor injection.
+33. Create a java application Insta Class which contains private fields like user name password then provide setter and getter methods for those variables and then we have another class user hear if user wants to update user name then update username and show the updated user name and then if user wants to update password then update password and show the updated password or else if user wants to update both username and password then update both values and then display updated values hear initialize the values by using constructor injection.
 
 
 POLYMORPHISM:
@@ -157,20 +157,21 @@ POLYMORPHISM:
 
 3.Create a java application where we need to satisfy both method overloading and overriding.   
 
-4.Create a java application where we have a class which contains main method and class B which extends class A having main method.then invoke class A main method under class B main method.
+4.Create a java application where we have a class which contains main method and class B which extends class A having main method. Then invoke class A main method under class B main method.
 
 ABSTRACTION:
 
 1.Create a java application where we have one abstract class it contains two undefined methods, then provide functionality for this methods using concrete class and invoke them by providing dynamic inputs.
 
-2.Create a java application where we have an abstract class which contains 2 undefined methods and one static and one non-static method and a parameterized constructor then provide fuctionality for abstract methods using concrete class and invoke them by providing dynamic inputs.
+2.Create a java application where we have an abstract class which contains 2 undefined methods and one static and one non-static method and a parameterized constructor then provide functionality for abstract methods using concrete class and invoke them by providing dynamic inputs.
 
-3. Create a java application where we have one abstract class which contains one defined and one undefined methods then inherite this class into another abstract class which contains one defined method and one undefined method and one parameterised constructor then invoke this class into conctrate class provide functionality for abstract methods and invoke them by providing Dynamic inputs.
+3. Create a java application where we have one abstract class which contains one defined and one undefined methods then inherit this class into another abstract class which contains one defined method and one undefined method and one parameterised constructor then invoke this class into concrete class provide functionality for abstract methods and invoke them by providing Dynamic inputs.
 
-4. Create a java application where we hava one concrant class which contains a non static method and one parameterised constrctor then inherit this class into an abstract class which contains one defined and one undefined method then inherit this class into concreate class and provide functionality for abstract methods and invoke all the  ethods under the main method of separate class test.
+4. Create a java application where we have one concurrent class which contains a non static method and one parameterised constructor then inherit this class into an abstract class which contains one defined and one undefined method then inherit this class into concreate class and provide functionality for abstract methods and invoke all the  methods under the main method of separate class test.
 
+5.Create a java application where we have one abstract class which contain one defined one one undefined method then inherit this class into another abstract class which contains one defined and one undefined methods then inherit this class into concreate class and provide functionality for abstraction methods and invoke them by providing dynamic methods by using upcasting 
 
-
+6.create a java application where we have an abstract class which contains two AB methods ,One defined method then inherit this class into one concrete class which contains two defined methods ,provide implementation for abstract methods and invoke all the properties under main method by using upcasting and down casting principles.
 
 
 

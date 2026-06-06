@@ -18,16 +18,13 @@ abstract class Ab1 extends Cc{
 	      System.out.println(a);
 	      return sc.next();
 	}
-	Ab1(float a){
-	   System.out.println(a);
-	}
+	
 	Ab1(){
 	  System.out.println("Hello, i'm class Ab1");
 	  System.out.println("Hello, i'm class Ab1");
 	  int a=7;
 	  System.out.println("Hello, i'm class Ab1"+ a);
 	  super(sc.nextInt());
-	  this(sc.nextFloat());
 
 	}
 }

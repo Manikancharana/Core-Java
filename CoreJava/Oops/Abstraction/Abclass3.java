@@ -1,4 +1,4 @@
-import java.util.Scanner;
+	import java.util.Scanner;
 
 abstract class Ab1{
 	static Scanner sc = new Scanner(System.in);
