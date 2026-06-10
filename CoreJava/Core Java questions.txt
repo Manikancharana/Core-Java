@@ -169,10 +169,25 @@ ABSTRACTION:
 
 4. Create a java application where we have one concurrent class which contains a non static method and one parameterised constructor then inherit this class into an abstract class which contains one defined and one undefined method then inherit this class into concreate class and provide functionality for abstract methods and invoke all the  methods under the main method of separate class test.
 
-5.Create a java application where we have one abstract class which contain one defined one one undefined method then inherit this class into another abstract class which contains one defined and one undefined methods then inherit this class into concreate class and provide functionality for abstraction methods and invoke them by providing dynamic methods by using upcasting 
+5.Create a java application where we have one abstract class which contain one defined one undefined method then inherit this class into another abstract class which contains one defined and one undefined methods then inherit this class into concreate class and provide functionality for abstraction methods and invoke them by providing dynamic methods by using upcasting 
 
 6.create a java application where we have an abstract class which contains two AB methods ,One defined method then inherit this class into one concrete class which contains two defined methods ,provide implementation for abstract methods and invoke all the properties under main method by using upcasting and down casting principles.
 
+7. Create a java application where we have one abstract class which contains two abstract methods and one defined method and one parameterised constructor then inherit this class into 3 concreate classes like A,B,C provide implementation in each class invoke all the properties under main method off separate class test according to the user choice by using upcasting.
+
+8. Create a java application where we have an abstract class which contains 2 abstract methods, 1 defined method , 1 parameterized constructor then inherit this class into 2 concrete classes provide implementation for abstract methods and also have 2 non static methods in each class we also have another class test which contains 1 user defined method named binder having abstract class object as parameter and returns nothing here we need to invoke all the properties of abstract class and implementation class by using upcasting and down casting then invoke this method under main method by providing abstract class object as an argument to the binder method according to the user choice
+
+//Interfaces 
+
+1. create  a java application where we have one interface witch contains one abstract method and one defined method inherit this into a concreate class provide implementation for abstract methods and invoke all the properties under main method by providing dynamic inputs.
+
+2. Create a java application where we have one interface which contains two abstract methods and two defined methods inherit this interface into a concreate class provide implementation for abstract methods then invoke all the properties under main method by providing dynamic inputs.
+
+3. Create a java application where we have a interface which contains two abstract methods and one defend method then inherit this interface into an abstract class witch contains one abstract method one defined method and one parameterised constructor then inherit this abstract class into a concrete class provide implementation for all abstract methods and invoke all the properties under main method by providing dynamic inputs.
+
+4.Create a java application where we have 2 interfaces which contains 1 abstract and 1 defined methods in each interface then inherit these 2 interface at a time  into another interface which contains 2 abstract methods and 1 defined method then inherit this interface into a concrete class provide implementation for all abstract methods then invoke them under main method by using upcasting and down casting by providing dynamic inputs
+
+5. create a java application where we have an abstract class which contains one defined and two abstract methods, one parameterized constructor and one interface which contains one abstract method and one defined method then inherit abstract class and an interface into a concrete class and provide implementation for all abstract methods and invoke all the properties under main method using dynamic inputs, upcasting.
 
 
 
