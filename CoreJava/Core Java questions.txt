@@ -189,6 +189,19 @@ ABSTRACTION:
 
 5. create a java application where we have an abstract class which contains one defined and two abstract methods, one parameterized constructor and one interface which contains one abstract method and one defined method then inherit abstract class and an interface into a concrete class and provide implementation for all abstract methods and invoke all the properties under main method using dynamic inputs, upcasting.
 
+//Inner classes 
+
+1. Create a java application where we have one class it contain one private variable and a non static method having parameters and return type inside this class a member inner class which contains a non static methods having parameters and return type then access the private variable inside this method invoke all the methods under main method of outer class.
+
+2.create a java appl where we have one class which contains one private var, one non-static method, one pc and inside this class we have another class which contains one non static method, one pc then invoke non-static var under method of inner class and remaining properties under main method of separate class test.
+
+3.Create a java application where we have one class it contains one private variable and a non static method having parameters and return type inside this class we have a static inner class whitch contains a static and  a non static methods having parameter and return type then invoke all the properties under the main method of separate class test.
+
+
+
+
+
+
 
 
 
