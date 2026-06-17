@@ -4,7 +4,7 @@ class Outer1{
 	private String a=sc.next();
 
 	int m1(float a){
-	    System.out.println("Hello varun I'm m1 method "+a);
+	   System.out.println("Hello varun I'm m1 method "+a);
 	return sc.nextInt();
 	}
 	
@@ -13,12 +13,12 @@ class Outer1{
 		static String m2(Outer1 x){
 			 System.out.println("Hello I'm m3  ");
 		 	 System.out.println("private var  " +x.a);
-			 return sc.next();
+		return sc.next();
 		}
 		float m3(Outer1 x){
 		     System.out.println("Hello I'm m2 ");
 		     System.out.println("private var  " +x.a);
-		return sc.nextFloat();
+		  return sc.nextFloat();
 		}
 	}
 }

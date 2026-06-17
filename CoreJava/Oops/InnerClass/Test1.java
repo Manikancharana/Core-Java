@@ -28,15 +28,15 @@ class A{
       }
 class Test1{
 	public static void main(String[]  args){
-	A.B x1 = new A.B();
-	x1.m1();
-	x1.m2();
-	A.B.C x2 = x1.new C();
-	x2.m3();
-	A.B.C.D x3 = x2.new D();
-	x3.m4();
-	A.B.C.D.E x4 = x3.new E();
-	x4.m5();
+		A.B x1 = new A.B();
+		x1.m1();
+		x1.m2();
+		A.B.C x2 = x1.new C();
+		x2.m3();
+		A.B.C.D x3 = x2.new D();
+		x3.m4();
+		A.B.C.D.E x4 = x3.new E();
+		x4.m5();
 	}
      }
 	
