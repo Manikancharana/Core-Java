@@ -1,8 +1,7 @@
 import java.util.Scanner;
-class AlphabetPattern{
+class AlphabetPattern2{
 
-	static void a(){
-	    for(int i=1;i<=7;i++){
+	static void a(int i){
       	    for(int j=7;j>=i;j--){
           
                 System.out.print(" ");
@@ -15,12 +14,9 @@ class AlphabetPattern{
                 System.out.print("  ");
             }
          }
-         System.out.println();
    	   }
-	}
 
-     static void b(){
-	    for(int i=1;i<=7;i++){
+     static void b(int i){
             for(int j=1;j<=7;j++){
              if(i==1 || j==1 || j==7|| i==4 || i==7){
                 System.out.print("* ");
@@ -29,13 +25,11 @@ class AlphabetPattern{
                 System.out.print("  ");
              }
           }
-           System.out.println();
-           }
+
 	}
 
 
-	static void c(){
-	for(int i=1;i<=7;i++){
+	static void c(int i){
         for(int j=1;j<=7;j++){
             if(i==1 || j==1|| i==7){
                 System.out.print("* ");
@@ -44,14 +38,12 @@ class AlphabetPattern{
                 System.out.print("  ");
             }
         }
-        System.out.println();
+
         }
-        }
 
 
-	static void d(){
+	static void d(int i){
 
-	for(int i=1;i<=7;i++){
         for(int j=1;j<=7;j++){
             if(i==1 || j==1||j==7|| i==7){
                 System.out.print("* ");
@@ -60,14 +52,11 @@ class AlphabetPattern{
                 System.out.print("  ");
             }
         }
-        System.out.println();
-        }
 
 	}
 
-	static void e(){
+	static void e(int i){
 
-	for(int i=1;i<=7;i++){
         for(int j=1;j<=7;j++){
             if(i==1 || j==1||i==4|| i==7){
                 System.out.print("* ");
@@ -76,13 +65,11 @@ class AlphabetPattern{
                 System.out.print("  ");
             }
         }
-        System.out.println();
-    }
+
 	}
 
-	static void f(){
+	static void f(int i){
 
-	for(int i=1;i<=7;i++){
         for(int j=1;j<=7;j++){
             if(i==1 || j==1||i==4){
                 System.out.print("* ");
@@ -91,13 +78,11 @@ class AlphabetPattern{
                 System.out.print("  ");
             }
         }
-        System.out.println();
-        }
+
 	}
 
-	static void g(){
+	static void g(int i){
 	
-	for(int i=1;i<=7;i++){
         for(int j=1;j<=7;j++){
             
             if(i==1 || j==1 || (i>3 && j==4) || (i==7 && j<=4) || (i==4 && j>=4) || (j==7 && i>=4)){
@@ -107,13 +92,11 @@ class AlphabetPattern{
                 System.out.print("  ");
             }
         }
-        System.out.println();
-    }
+
 	}
 
-	static void h(){
+	static void h(int i){
 	
-	for(int i=1;i<=7;i++){
         for(int j=1;j<=7;j++){
             
             if(i==4 || j==1 || j==7){
@@ -123,13 +106,11 @@ class AlphabetPattern{
                 System.out.print("  ");
             }
         }
-        System.out.println();
-    }
+
 	}
 
-	static void i(){
+	static void i(int i){
 	
-	for(int i=1;i<=7;i++){
         for(int j=1;j<=7;j++){
             
             if(j==4 || i==1 || i==7){
@@ -139,13 +120,11 @@ class AlphabetPattern{
                 System.out.print("  ");
             }
         }
-        System.out.println();
-    }
+
 	}
 
-	static void j(){
+	static void j(int i){
 	
-	for(int i=1;i<=7;i++){
         for(int j=1;j<=7;j++){
             
             if(j==4 || i==1 || (i==7 && j<=4)){
@@ -155,8 +134,7 @@ class AlphabetPattern{
                 System.out.print("  ");
             }
         }
-        System.out.println();
-    }
+
 	}
 
 	static void k(){
@@ -185,9 +163,8 @@ class AlphabetPattern{
     }
 	}
 
-	static void l(){
+	static void l(int i){
 	
-	for(int i=1;i<=7;i++){
         for(int j=1;j<=7;j++){
             if(j==1 || i==7){
                 System.out.print("* ");
@@ -196,13 +173,11 @@ class AlphabetPattern{
                 System.out.print("  ");
             }
         }
-        System.out.println();
-    }
 	}
 
-	static void m(){
+	static void m(int i){
 	
-	for(int i=1;i<=7;i++){
+
         for(int j=1;j<=7;j++){
             if(j==1 || j==7 || (i<=4 && j==i) || (i==3 &&j==5 || (i==2 && j==6))){
                 System.out.print("* ");
@@ -211,13 +186,11 @@ class AlphabetPattern{
                 System.out.print("  ");
             }
         }
-        System.out.println();
-    }
+
 	}
 
-	static void n(){
+	static void n(int i){
 	
-	for(int i=1;i<=7;i++){
         for(int j=1;j<=7;j++){
             if(j==1 || j==7 ||j==i ){
                 System.out.print("* ");
@@ -226,13 +199,11 @@ class AlphabetPattern{
                 System.out.print("  ");
             }
         }
-        System.out.println();
-    }
+
 	}
 
-	static void o(){
+	static void o(int i){
 	
-	for(int i=1;i<=7;i++){
         for(int j=1;j<=7;j++){
             if(j==1 || j==7 ||i==1 ||i==7  ){
                 System.out.print("* ");
@@ -241,13 +212,11 @@ class AlphabetPattern{
                 System.out.print("  ");
             }
         }
-        System.out.println();
-    }
+
 	}
 
-	static void p(){
+	static void p(int i){
 	
-	for(int i=1;i<=7;i++){
         for(int j=1;j<=7;j++){
             if(j==1 || (i==1 && j<=4) || (i<=4 && j==4)|| (i==4 && j<=4) ){
                 System.out.print("* ");
@@ -256,13 +225,11 @@ class AlphabetPattern{
                 System.out.print("  ");
             }
         }
-        System.out.println();
-    }
+
 	}
 
-	static void q(){
+	static void q(int i){
 	
-	for(int i=1;i<=7;i++){
         for(int j=1;j<=7;j++){
             if((j==1 && i<=6) || (i<=6 && j==6) || (j<=6 && i==1) || (i==6&& j<=6 ) || (i>=4 && j==i)){
                 System.out.print("* ");
@@ -271,13 +238,11 @@ class AlphabetPattern{
                 System.out.print("  ");
             }
         }
-        System.out.println();
-    }
+
 	}
 
-	static void r(){
+	static void r(int i){
 	
-	for(int i=1;i<=7;i++){
         for(int j=1;j<=7;j++){
             if(j==1 || (i==1 && j<=4) || (i<=4 && j==4) || (i==4 && j<=4)|| (i==5 && j==2) ||(i==6 && j==3) ||(i==7 && j==4) ){
                 System.out.print("* "); 
@@ -287,13 +252,11 @@ class AlphabetPattern{
             }
            
         }
-        System.out.println();
-    }
+
 	}
 
-	static void s(){
+	static void s(int i){
 	
-	for(int i=1;i<=7;i++){
         for(int j=1;j<=7;j++){
             if(i==1 || (j==1 && i<=4 ) || i==4 || (j==7 && i>4) || i==7){
             System.out.print("* "); 
@@ -303,13 +266,11 @@ class AlphabetPattern{
             }
            
         }
-        System.out.println();
-    }
+
 	}
 
-	static void t(){
+	static void t(int i){
 	
-	for(int i=1;i<=7;i++){
         for(int j=1;j<=7;j++){
             if(i==1 ||j==4 ){
             System.out.print("* "); 
@@ -319,13 +280,11 @@ class AlphabetPattern{
             }
            
         }
-        System.out.println();
-    }
+
 	}
 
-	static void u(){
+	static void u(int i){
 	
-	for(int i=1;i<=7;i++){
         for(int j=1;j<=7;j++){
             if(i==7 ||j==1 || j==7 ){
             System.out.print("* "); 
@@ -335,13 +294,11 @@ class AlphabetPattern{
             }
            
         }
-        System.out.println();
-    }
+
 	}
 
-	static void v(){
+	static void v(int i){
 	
-	for(int i=1;i<=7;i++){
         for(int j=1;j<i;j++){
             System.out.print(" ");
         }
@@ -354,13 +311,10 @@ class AlphabetPattern{
             }
            
         }
-        System.out.println();
-    }
 	}
 
-	static void w(){
+	static void w(int i){
 	
-	for(int i=7;i>=1;i--){
         for(int j=1;j<=7;j++){
             if(j==1 || j==7 || (i<=4 && j==i) || (i==3 &&j==5 || (i==2 && j==6))){
                 System.out.print("* ");
@@ -369,13 +323,11 @@ class AlphabetPattern{
                 System.out.print("  ");
             }
         }
-        System.out.println();
-    }
+ 
 	}
 
-	static void x(){
+	static void x(int i){
 	
-	for(int i=1;i<=7;i++){
         for(int j=1;j<=7;j++){
             if(j==i || (j==7-i+1)){
                 System.out.print("* ");
@@ -384,13 +336,10 @@ class AlphabetPattern{
                 System.out.print("  ");
             }
         }
-        System.out.println();
-    }
 	}
 
-	static void y(){
+	static void y(int i){
 	
-	for(int i=1;i<=7;i++){
         for(int j=1;j<=7;j++){
             if((j==i && i<=4) || (j==7-i+1 && i<=4) || (j==4 && i>=4)){
                 System.out.print("* ");
@@ -399,13 +348,11 @@ class AlphabetPattern{
                 System.out.print("  ");
             }
         }
-        System.out.println();
-    }
+
 	}
 
-	static void z(){
+	static void z(int i){
 	
-	for(int i=1;i<=7;i++){
         for(int j=1;j<=7;j++){
             if(i==1 || (j==7-i+1) || i==7){
                 System.out.print("* ");
@@ -414,99 +361,104 @@ class AlphabetPattern{
                 System.out.print("  ");
             }
         }
-        System.out.println();
-    }
+
 	}
 
 
 
 	public static void main(String[] args){
 	Scanner sc = new Scanner(System.in);
-	String s=sc.next();
+	String s=sc.next().toLowerCase();
 	int n=s.length();
+	
+	
+	for(int j=0;j<n;j++){
 
-	for(int i=0;i<n;i++){
-	char c=s.charAt(i);
-	System.out.println();
+	for(int i=1;i<=7;i++){
+	char c=s.charAt(j);
 	switch(c){
-        case 'a' : a();
+        case 'a' : a(i);
         break;
         
-        case 'b' : b();
+        case 'b' : b(i);
         break; 
         
-        case 'c' : c();
+        case 'c' : c(i);
         break;
         
-        case 'd' : d();
+        case 'd' : d(i);
         break;
         
-        case 'e' : e();
+        case 'e' : e(i);
         break;
         
-        case 'f' : f();
+        case 'f' : f(i);
         break;
         
-        case 'g' : g();
+        case 'g' : g(i);
         break;
         
-        case 'h' : h();
+        case 'h' : h(i);
         break;
         
-        case 'i' : i();
+        case 'i' : i(i);
         break;
         
-        case 'j' : j();
+        case 'j' : j(i);
         break;
         
         case 'k' : k();
         break;
         
-        case 'l' : l();
+        case 'l' : l(i);
         break;
         
-        case 'm' : m();
+        case 'm' : m(i);
         break;
         
-        case 'n' : n();
+        case 'n' : n(i);
         break;
         
-        case 'o' : o();
+        case 'o' : o(i);
         break;
         
-        case 'p' : p();
+        case 'p' : p(i);
         break;
         
-        case 'q' : q();
+        case 'q' : q(i);
         break;
         
-        case 'r' : r();
+        case 'r' : r(i);
         break;
         
-        case 's' : s();
+        case 's' : s(i);
         break;
         
-        case 't' : t();
+        case 't' : t(i);
         break;
         
-        case 'u' : u();
+        case 'u' : u(i);
         break;
         
-        case 'v' : v();
+        case 'v' : v(i);
         break;
         
-        case 'w' : w();
+        case 'w' : w(i);
         break;
         
-        case 'x' : x();
+        case 'x' : x(i);
         break;
         
-        case 'y' : y();
+        case 'y' : y(i);
         break;
         
-        case 'z' : z();
+        case 'z' : z(i);
         break;
         }
-    }
+ 	System.out.print("   ");
+	
 	}
+	System.out.println();
+	}
+}
 }
