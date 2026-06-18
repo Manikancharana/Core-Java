@@ -14,14 +14,14 @@ class A{
 	       class D{
 		   void m4(){
   			System.out.println("Method m4");
-		   }
   	      	   class E{
 			void m5(){
 			    System.out.println("Method m5");
-			}
-			//E x= new E();
-			//x.m5();
-		   }
+			   }
+		        }
+			E x= new E();
+			x.m5();
+		}
 	       }
 	    }
  	}
@@ -35,8 +35,6 @@ class Test1{
 		x2.m3();
 		A.B.C.D x3 = x2.new D();
 		x3.m4();
-		A.B.C.D.E x4 = x3.new E();
-		x4.m5();
 	}
      }
 	

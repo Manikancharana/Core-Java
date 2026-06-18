@@ -195,7 +195,28 @@ ABSTRACTION:
 
 2.create a java appl where we have one class which contains one private var, one non-static method, one pc and inside this class we have another class which contains one non static method, one pc then invoke non-static var under method of inner class and remaining properties under main method of separate class test.
 
-3.Create a java application where we have one class it contains one private variable and a non static method having parameters and return type inside this class we have a static inner class whitch contains a static and  a non static methods having parameter and return type then invoke all the properties under the main method of separate class test.
+3.Create a java application where we have one class it contains one private variable and a non static method having parameters and return type inside this class we have a static inner class which contains a static and  a non static methods having parameter and return type then invoke all the properties under the main method of separate class test.
+
+4. Create a java application where we have one class which contains one private var, one static method, one pc and inside this class we have another class which contains one static method, one pc then invoke private var under method of inner class and remaining properties under main method of separate class test.
+
+5.create a java application where we have one class it contains one static inner class which contains 1 static and 1 non-static method having parameter & return type, inside this class we have a member inner class which contains 1 non-static method and outer class contains another member inner class which contains one non-static method then invoke all these properties under main method by providing dynamic inputs.
+
+6. Create a java application where we have one class it contains on non static method having parameter an return type inside this method we have a local inner class which contains a non static method then invoke all the properties under main method by providing dynamic inputs;
+
+7.Create a java appl where we have one class which contains one private var, one non static method m1() having para and return type inside this method we have another class which contains one non static method, one pc then invoke all the properties under main method of separate class test
+
+//Anonymous inner class
+
+1. create a java application where we have one abstract class which contain two abstract methods then provide implementation for abstract methods by using anonymous inner class then invoke all the properties under main method by providing dynamic inputs.
+
+
+
+
+
+
+
+
+
 
 
 
