@@ -17,7 +17,7 @@ class Abclass1 extends Ab{
 	}
 
 	Abclass1(){
-		System.out.println("child class default cons ");
+	System.out.println("child class default cons ");
 	}
 	public static void main(String[] args){
 		Abclass1 x = new Abclass1();
