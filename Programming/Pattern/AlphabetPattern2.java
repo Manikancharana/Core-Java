@@ -454,9 +454,7 @@ class AlphabetPattern2{
         
         case 'z' : z(i);
         break;
-        }
- 	System.out.print("   ");
-	
+        }	
 	}
 	System.out.println();
 	}

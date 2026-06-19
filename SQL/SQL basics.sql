@@ -1,3 +1,4 @@
+
 use student;
 create table student(n0 int, stdName varchar(10),stdMarks varchar(10));
 select * from student;
@@ -28,4 +29,8 @@ delete from students where n0=3;
 
 insert into students values(3,"Meghana",99);
 
-create table employee
+create table employee (n0 int , Ename varchar(10), salary int);
+insert into employee values(1,"Mani",90000),(2,"Sai",80000),(3,"Shekar",70000),(4,"Raj",50000);
+
+select * from employee;
+
