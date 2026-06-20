@@ -25,12 +25,15 @@ class Arrayprgms{
 	    }
 	}
 	System.out.println("Sum of Odd Number "+sum);
-	*/ 
-
+	
+	
 	for(int i=0;i<n;i++){
 	   sum+=arr[i];
 	}
 	System.out.printf("%.2f",(float) sum/n);  // To print Avg of array
-		
+	*/
+	
+	// First and last element
+  	   System.out.println("First element "+arr[0] + "  Last element "+ arr[n-1]);	
 	}
 	}

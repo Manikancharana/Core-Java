@@ -1,28 +1,22 @@
 import java.util.Scanner;
-class Prime{
-	static boolean isPrime(int n){
- 
-	 for(int i=2;i<=Math.sqrt(n);i++){
-	     if(n%i==0) return false;
-	   }
-	   return true;
-	}
-
+class ArrayRev{	
 	public static void main(String[] args){
 	Scanner sc = new Scanner(System.in);
 	System.out.println("Enter size of array ");
 	int n=sc.nextInt();
 	int [] arr = new int[n];
+	int [] temp = new int[n];
 	for(int i=0;i<n;i++){
 	   arr[i]=sc.nextInt();
 	}
-	int c=0,sum=0;
+
 	for(int i=0;i<n;i++){
-	    if(isPrime(arr[i])){
-		sum+=arr[i];
-		c++;
-	     }
-	}
-	System.out.printf("%.2f",(float)sum/c);
+	   temp[n-i-1]=arr[i];
+	 }
+
+	for(int i=0;i<n;i++){	
+	    System.out.print(temp[i]);
+	  }
+	
 	}
 	}
